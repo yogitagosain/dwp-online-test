@@ -1,0 +1,7 @@
+java-online-test:
+  url: https://bpdts-test-app.herokuapp.com
+london:
+  latitude: 51.507351
+  longitude: -0.127758
+server:
+  port : 8081
